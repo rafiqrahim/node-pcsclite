@@ -1,5 +1,5 @@
 {
-  "name": "@pokusew/pcsclite",
+  "name": "@rafiqrahim/pcsclite",
   "version": "0.6.0",
   "description": "Bindings over PC/SC to access Smart Cards",
   "keywords": [
